@@ -1,4 +1,4 @@
-Zero Hour v1.05 Map & Radar Cheat Tool
+Zero Hour v1.05 - Process Memory Analysis Tool
 
 Cheat tool for Zero Hour v1.05. It patches game.dat offsets in real-time to unlock the map, radar, and stealth detection.
 
