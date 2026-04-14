@@ -9,7 +9,7 @@ What it does:
 
 - Stealth Reveal: You can see hidden units.
 
-🎚️How to Use
+How to Use
 
 1- Run the tool as Administrator before opening the game.
 
